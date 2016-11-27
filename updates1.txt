@@ -1,0 +1,1 @@
+updates1These updates are indicated in the project proposal1. Coins are added to the game for scoring2. Blinking diver is shown after a life is lost3. Diver, fish, and coins are now animated

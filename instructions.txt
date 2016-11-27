@@ -1,0 +1,20 @@
+Welcome to Deep Sea Diver!
+Guide the diver through obstacles in the sea while collecting gold coins.
+Control the diver's movement by using the arrow keys.
+Each gold coin collected will increase your score by 10 points.
+You can continue playing until all 3 lives have been lost.
+The diver loses lives by hitting obstacles in the game.
+One life is lost when the diver collides with a shark, anglerfish, or naval mine.
+Avoid getting close to anglerfish!
+Anglerfish start to follow the diver if it gets too close.
+If the diver loses a life, the diver starts blinking for a few seconds.
+When the diver is blinking, it is immune to collisions with obstacles.
+The diver cannot collect coins when it is blinking.
+The diver will also encounter caves during its dive.
+Caves present two possible paths for the diver to follow.
+Be careful, one of the paths may have obstacles.
+Certain parts of the cave will be dark and can hide obstacles.
+The diver can turn on a flashlight to see the dark parts of caves.
+Press "f" on the keyboard to turn on the diver's flashlight.
+Press esc to exit out of the game.
+Keep playing to beat your high score!
